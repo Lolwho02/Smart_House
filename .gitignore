@@ -1,0 +1,13 @@
+# Default ignored files
+/workspace.xml
+
+
+/.idea
+/coursera_house/__pycache__
+/coursera_house/NAME.py
+/coursera_house/core/__pycache__
+
+db.sqlite3
+e.bat
+Pipfile
+Pipfile.lock
