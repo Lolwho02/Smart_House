@@ -25,7 +25,7 @@ pytest-django==3.9.0
 python-dateutil==2.8.1
 pytz==2020.1
 redis==2.10.6
-requests==2.18.4
+requests==2.20.0
 responses==0.10.15
 six==1.15.0
 text-unidecode==1.3
