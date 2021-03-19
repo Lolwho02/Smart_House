@@ -7,7 +7,7 @@ certifi==2020.6.20
 chardet==3.0.4
 colorama==0.4.3
 coverage==5.2
-Django==2.2.13
+Django==2.2.18
 factory-boy==2.12.0
 Faker==4.1.1
 idna==2.6
